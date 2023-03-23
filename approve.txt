@@ -1,0 +1,2 @@
+DELETE FROM SAM_Orderapproval WHERE SAM_Orderapproval_id ='A7856477CB7B4E36B4130F7C6088B31F'
+Update C_order Set EM_Sam_Sendforapprove='N'  Where  C_order_id='0AAC57A7CB984357ABEA6DEEB2C8F4F6';
